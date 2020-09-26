@@ -31,4 +31,4 @@ steps:
 
 ## Gallery
 Below is a screenshot of my work on a full shrinked browser (mobile) view.
-![Music machine running](/smm2020.png)
+![Music machine running](/Image.png)
