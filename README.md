@@ -30,5 +30,5 @@ steps:
     - I made all the necessary changes to make the application to my liking.
 
 ## Gallery
-Below is a screenshot of my work on a full shrinked browser (mobile) view.
+Below is a screenshot of my work on a full shrinked browser view.
 ![Music machine running](/Image.png)
