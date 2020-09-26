@@ -1,0 +1,165 @@
+body {
+  padding: 10px;
+  font-family: verdana, sans-serif;
+}
+
+header {
+  /*background-image: linear-gradient(to bottom, midnightblue, #e1e5f0 100%); */
+  background: #00FF00;
+  padding: 5px;
+  position: relative;
+  margin-bottom: 3rem;
+  border-radius: 1rem;
+  border:solid 2px #607d8b;
+}
+
+.author {
+  font-size: 1.5rem;
+  color: crimson ;
+}
+
+.machine-navbar {
+  font-size: 2rem;
+  color: black;
+}
+
+.css-song-name {
+  width: 100%;
+  text-align: left;
+  background: #ede7f6 ;
+  border: solid 2px #90a4ae;
+  color: #000000;
+  font-size: 1rem;
+}
+
+.number1 {
+  width: 100%;
+  text-align: left;
+  background: yellow ;
+  border: solid 2px #90a4ae;
+  color: #000000;
+  font-size: 1rem;
+}
+
+.number2 {
+  width: 100%;
+  text-align: left;
+  background: red ;
+  border: solid 2px #90a4ae;
+  color: #000000;
+  font-size: 1rem;
+}
+
+
+.number3 {
+  width: 100%;
+  text-align: left;
+  background: green ;
+  border: solid 2px #90a4ae;
+  color: #000000;
+  font-size: 1rem;
+}
+
+.number4 {
+  width: 100%;
+  text-align: left;
+  background: #663399 ;
+  border: solid 2px #90a4ae;
+  color: #000000;
+  font-size: 1rem;
+}
+
+.number5 {
+  width: 100%;
+  text-align: left;
+  background: #FF8C00 ;
+  border: solid 2px #90a4ae;
+  color: #000000;
+  font-size: 1rem;
+}
+
+.number6 {
+  width: 100%;
+  text-align: left;
+  background: #CD5C5C ;
+  border: solid 2px #90a4ae;
+  color: #000000;
+  font-size: 1rem;
+}
+
+.number7 {
+  width: 100%;
+  text-align: left;
+  background: #FFD700 ;
+  border: solid 2px #90a4ae;
+  color: #000000;
+  font-size: 1rem;
+}
+
+.number8 {
+  width: 100%;
+  text-align: left;
+  background: #D2691E ;
+  border: solid 2px #90a4ae;
+  color: #000000;
+  font-size: 1rem;
+}
+
+#slider {
+  background:red;
+}
+
+.slider{
+  border: 1px solid #212121;
+}
+
+.slider-value {
+  color: darkred;
+}
+
+.btn-danger {
+  width: 30px;
+  height: 30px;
+  padding: 1px 3px;
+  border-radius: 25px;
+  border-width: 0px;
+          
+}
+
+.btn-success {
+  width: 30px;
+  height: 30px;
+  padding: 1px 3px;
+  border-radius: 25px;
+  border-width: 0px;
+          
+}
+
+.btn-lg {
+  width: 45px;
+  height: 45px;
+  padding: 1px 2px;
+  border-radius: 25px;
+  border-width: 0px;      
+}
+
+.machine-container, .slider-container, .btns-container {
+  border: 2px solid #607d8b;
+  padding: 15px;
+  background-color:#1E90FF;
+  border-radius: 1rem;
+}
+
+#myid.slider-container{
+  background-color: white;
+  border :3px solid #000000;
+}
+
+#myid.btns-container {
+  background-color: white;
+  border : 3px solid #000000;
+}
+
+.current-speed {
+  color:#FF0000;
+}
